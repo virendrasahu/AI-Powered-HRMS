@@ -201,23 +201,17 @@ The backend is already production‑ready with uvicorn; for real deployment, run
 
 ## Screenshots / GIFs
 
-Place your screenshots or GIFs under an `assets/` folder and reference them here. Examples:
+Current screenshots (stored under `assets/`):
 
-```md
-![Dashboard Overview](assets/dashboard-overview.png)
-![Employee Directory](assets/employees-directory.png)
-![Recruitment ATS](assets/recruitment-ats.png)
-![Performance Reviews](assets/performance-reviews.png)
-![Offer Letter Generation](assets/offer-letter-generation.gif)
-```
+![Dashboard Overview](frontend/dist/assets/Dashboard.jpg)
 
-These should showcase:
+![Employee Directory](frontend/dist/assets/Employees.jpg)
 
-- Dashboard with AI Executive Summary and department overview.
-- Employee Directory with filters and CSV export.
-- Recruitment pipeline and candidate stages.
-- Performance review cycles and AI summaries.
-- Offer letter generation flow.
+![Recruitment & ATS](frontend/dist/assets/Recruitment.jpg)
+
+![Leave & Attendance](frontend/dist/assets/LeaveAndAttendance.jpg)
+
+![Performance Reviews](frontend/dist/assets/Performance.jpg)
 
 ---
 
