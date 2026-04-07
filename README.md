@@ -201,17 +201,17 @@ The backend is already production‑ready with uvicorn; for real deployment, run
 
 ## Screenshots / GIFs
 
-Current screenshots (stored under `assets/`):
+Current screenshots (stored under `frontend/public/img/`):
 
-![Dashboard Overview](frontend/dist/assets/Dashboard.jpg)
+![Dashboard Overview](frontend/public/img/Dashboard.jpg)
 
-![Employee Directory](frontend/dist/assets/Employees.jpg)
+![Employee Directory](frontend/public/img/Employees.jpg)
 
-![Recruitment & ATS](frontend/dist/assets/Recruitment.jpg)
+![Recruitment & ATS](frontend/public/img/Recruitment.jpg)
 
-![Leave & Attendance](frontend/dist/assets/LeaveAndAttendance.jpg)
+![Leave & Attendance](frontend/public/img/LeaveAndAttendance.jpg)
 
-![Performance Reviews](frontend/dist/assets/Performance.jpg)
+![Performance Reviews](frontend/public/img/Performance.jpg)
 
 ---
 
